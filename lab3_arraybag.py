@@ -7,7 +7,6 @@ import ctypes
 import random
 
 __author__ = 'Rama Alkhouli'
-__student_number__ = '101198025'
 
 
 class ArrayBag:

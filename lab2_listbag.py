@@ -1,4 +1,3 @@
-# SYSC 2100 Winter 2023 Lab 2
 
 # An implementation of ADT Bag that uses an instance of Python's built-in
 # list type as the underlying data structure.
@@ -7,7 +6,7 @@ import random
 from typing import Any
 
 __author__ = 'Rama'
-__student_number__ = '101198025'
+
 
 
 class ListBag:

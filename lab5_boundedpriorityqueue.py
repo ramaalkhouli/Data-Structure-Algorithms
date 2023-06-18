@@ -1,11 +1,8 @@
-# SYSC 2100 Winter 2023 Lab 5
 
 from collections import deque
 import ctypes
 
 __author__ = 'Rama Alkhoui'
-__student_number__ = '101198025'
-
 
 class BoundedPriorityQueue:
 

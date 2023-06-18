@@ -4,7 +4,7 @@
 # "Data Structures and Algorithms with Python", Section 6.5.1.
 
 __author__ = 'Rama Alkhouli '
-__student_number__ = '101198025'
+
 
 
 class BinaryTree:

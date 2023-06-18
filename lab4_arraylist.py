@@ -1,4 +1,3 @@
-# SYSC 2100 Winter 2023 Lab 4
 
 # Class ArrayList is an implementation of ADT List that uses an array as the
 # underlying data structure. The iterator is implemented by a generator.
@@ -6,7 +5,6 @@
 import ctypes  # To create the backing array.
 
 __author__ = 'Rama Alkhouli'
-__student_number__ = '101198025'
 
 
 class ArrayList:
